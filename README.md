@@ -53,5 +53,10 @@ Télécharge, convertit et corrige automatiquement le package `.deb` pour Fedora
 - 🔧 Open projects : disponibles sur ce profil
 
 ---
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 > “Le code, c’est pas juste de la logique — c’est une façon de comprendre le monde.”
